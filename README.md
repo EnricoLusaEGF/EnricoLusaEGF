@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnricoLusaEGF
 - 👀 I’m interested in embedded development
 - 🌱 I’m currently learning yocto
-- 💞️ I’m looking to collaborate on embedded HTML5
+- 💞️ My main focus lately is on LVGL
 - 📫 How to reach me enrico.lusa@elettronicagf.it
 
 <!---
